@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lingotek Filesystem Connector #
 
 The Lingotek Filesystem Connector (`ltk`) links your files and folders to the Translation Network™.  It provides yet another way for continuously globalizing all of your translatable content.
@@ -49,3 +50,7 @@ Next, is a video that demonstrates how a folder can be watched for new files and
 
 
 Checkout other installation notes [here](https://github.com/Lingotek/translation-utility/wiki/Other-Installation-Notes)
+=======
+# filesystem
+>>>>>>> b62b345ce2063994f3a65abb47302d571fca7b75
+# survivor
